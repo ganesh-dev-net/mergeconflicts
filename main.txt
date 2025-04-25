@@ -1,2 +1,2 @@
-city: Bengaluru
-people: 10
+city: Chennai
+people: 20
