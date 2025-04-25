@@ -1,2 +1,2 @@
-city: Chennai
-people: 20
+city: Goa
+people: 30
