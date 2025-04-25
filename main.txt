@@ -1,2 +1,2 @@
-city: None
-people: 0
+city: Bengaluru
+people: 10
